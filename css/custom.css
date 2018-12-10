@@ -1,0 +1,32 @@
+.fb-embed {
+    width: 1000px;
+    height: 550px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .fb-embed {
+      width: 800px;
+      height: 450px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .fb-embed {
+      width: 550px;
+      height: 309px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .fb-embed {
+      width: 400px;
+      height: 225px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .fb-embed {
+      width: 80%;
+      height: 200px;
+  }
+}
