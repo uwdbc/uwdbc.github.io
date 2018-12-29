@@ -1457,7 +1457,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .header-logo a {
     display: block;
-    margin: 9px 0 0 0;
+    margin: 20px 0 0 0;
     padding: 0;
     outline: 0;
     border: none;
@@ -3377,14 +3377,14 @@ footer .row {
 
 .footer-logo {
     display: block;
-    margin: -.6rem 0 3.6rem 0;
+    margin: auto;
     padding: 0;
     outline: 0;
     border: none;
-    width: 85px;
-    height: 28px;
+    width: 100px;
+    height: 100px;
     background: url("../images/logo-footer.png") no-repeat center;
-    background-size: 85px 28px;
+    background-size: 100px 100px;
     font: 0/0 a;
     text-shadow: none;
     color: transparent;
